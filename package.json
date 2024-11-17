@@ -1,0 +1,14 @@
+{
+  "name": "whatcaniafford",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx cleancss -o main.min.css main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3"
+  }
+}
